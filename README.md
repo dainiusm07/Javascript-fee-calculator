@@ -22,7 +22,7 @@ Tests where made for every function that I used in the program code.
 
 (You can find appTest.js in `unit_test/test` folder)
 
-##### How to run test?
+##### How to run a test?
 1. Go to `unit_test` folder
 2. Run test by typing `npm run test`
 
